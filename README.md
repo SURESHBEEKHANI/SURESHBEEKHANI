@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SURESH BEEKHANI</h1>
-<p align="center"> <img src="https://github.com/SURESHBEEKHANI/SURESHBEEKHANI/blob/main/GItup%20photo.png" alt="sureshbeekhani" /> </p>
+<p align="center"> <img src="https://www.canva.com/design/DAGGa4WHbvw/wbAXJURNlpUCuxDPCxld9A/view?utm_content=DAGGa4WHbvw&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="sureshbeekhani" /> </p>
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=sureshbeekhani&label=Profile%20views&color=0e75b6&style=flat" alt="sureshbeekhani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sureshbeekhani" alt="sureshbeekhani" /></a> </p>
