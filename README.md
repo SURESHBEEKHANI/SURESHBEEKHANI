@@ -30,7 +30,7 @@ I'm passionate about technology and have experience in:
     </a> 
 </p>
 
-- 👨‍💻 Check out my projects: [My Portfolio](https://sureshbeekhani.github.io/Portfolio/)
+- 👨‍💻 Check out my projects: [My Portfolio](https://sureshbeekhani.github.io/Portifolio/)
 - 📫 Reach me at: **sureshbeekhani26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
