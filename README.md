@@ -7,8 +7,6 @@ I'm passionate about technology and have experience in:
 - **Natural Language Processing**
 - **MLOps**
 - **Generative AI**
-- **Microcontrollers**
-- **Robotics**
 
 <p align="center"> 
     <img src="https://github.com/SURESHBEEKHANI/SURESHBEEKHANI/blob/main/image.JPG" alt="Suresh Beekhani" /> 
