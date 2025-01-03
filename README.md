@@ -3,9 +3,7 @@
 I'm passionate about technology and have experience in:
 - **Deep Learning**
 - **Machine Learning**
-- **Computer Vision**
 - **Natural Language Processing**
-- **MLOps**
 - **Generative AI**
 
 <p align="center"> 
@@ -28,7 +26,7 @@ I'm passionate about technology and have experience in:
     </a> 
 </p>
 
-- 👨‍💻 Check out my projects: [My Portfolio](https://sureshbeekhani.github.io/Portifolio/)
+- 👨‍💻 Check out my projects: [My Portfolio](https://sureshbeekhani.netlify.app/)
 - 📫 Reach me at: **sureshbeekhani26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
