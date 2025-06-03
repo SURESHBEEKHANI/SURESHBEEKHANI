@@ -5,6 +5,7 @@ I'm passionate about technology and have experience in:
 - **Machine Learning**
 - **Natural Language Processing**
 - **Generative AI**
+- **Computer Vision**
 
 <p align="center"> 
     <img src="https://github.com/SURESHBEEKHANI/SURESHBEEKHANI/blob/main/image.JPG" alt="Suresh Beekhani" /> 
