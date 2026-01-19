@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I'm a **Machine Learning & GenAI Engineer** with **3+ years** of hands-on experience delivering AI solutions in finance, healthcare, and e-commerce.
+I'm a **Machine Learning & GenAI Engineer** with **4+ years** of hands-on experience delivering AI solutions in finance, healthcare, and e-commerce.
 
 🔹 I specialize in:
 - **Generative AI & LLMs**: LangChain, Hugging Face, OpenAI
